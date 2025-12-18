@@ -1,5 +1,5 @@
-Alr so i made this shit at school in period 4 and ik its shit but like i dont really care and ill improve it and i'm gonna make some more games.
+ i made this shit at school in period 4 and ik its shit but  i dont  care and ill improve it and i'm gonna make more games.
 
-This is compatible with playcode and maybe jsfiddle as far as i know
+This is compatible with playcode and vs code
 
-i have a shitton of homework and stuff so i do not have time to make actual games on my pc and render this one fully but this is it i guess
+okkkkk bye
